@@ -1,0 +1,24 @@
+# Zomato FP&A Project (Manmeet Singh)
+
+## Objective
+Build a complete FP&A workflow using real financial statements of Zomato, reconstructing 36 months of monthly actuals and 24 months of forecast. 
+This project demonstrates budgeting, forecasting, KPI analysis, and dashboarding.
+
+## Includes:
+- 36 months Actuals (FY22–FY24)
+- 24 months Forecast (FY25–FY26)
+- KPIs (Contribution, CM%, EBITDA Margin)
+- Assumptions sheet (seasonality, cost ratios)
+- Management-ready visual dashboards
+- Variance analysis
+- FP&A storytelling
+
+## Tools Used
+Excel, Power BI, GitHub
+
+## Why Zomato?
+Because it is a high-growth Indian consumer-tech company with detailed public disclosures, allowing realistic FP&A reconstruction.
+
+## Author
+Manmeet Singh
+FP&A / Management Accounting Professional
