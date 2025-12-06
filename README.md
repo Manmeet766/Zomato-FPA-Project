@@ -1,29 +1,44 @@
-# Zomato FP&A Project (Manmeet Singh)
+Zomato FP&A Project (Manmeet Singh)
+Objective
 
-## Objective
-Build a complete FP&A workflow using real financial statements of Zomato, reconstructing 36 months of monthly actuals and 24 months of forecast. 
-This project demonstrates budgeting, forecasting, KPI analysis, and dashboarding.
+Build a complete FP&A workflow using reconstructed 36-month actuals and 24-month forecasts for Zomato.
+This project demonstrates budgeting, forecasting, KPI analysis, variance analysis, and dashboard creation — similar to real FP&A work inside a high-growth tech company.
 
-## Includes:
-- 36 months Actuals (FY22–FY24)
-- 24 months Forecast (FY25–FY26)
-- KPIs (Contribution, CM%, EBITDA Margin)
-- Assumptions sheet (seasonality, cost ratios)
-- Management-ready visual dashboards
-- Variance analysis
-- FP&A storytelling
+Includes
+
+36 months Actuals (FY22–FY24)
+
+24 months Forecast (FY25–FY26)
+
+KPIs (Contribution, CM%, EBITDA Margin)
+
+Assumptions sheet (seasonality, cost ratios)
+
+Management-ready visual dashboards
+
+Variance analysis
+
+FP&A storytelling & commentary
 
 📊 FP&A Insights Summary (Dec 2023)
+
 1. Revenue momentum remained strong through FY24, though December saw a ~9% month-on-month dip driven by lower order volumes rather than cost pressure.
 2. Contribution margin held steady at ~62% as delivery and marketing ratios stayed unchanged, indicating stable unit economics.
 3. The Rolling 3-Month Revenue trend (~₹1,252 Cr) shows the dip was episodic, not structural, and underlying demand remains positive entering Q4 FY24.
 
-## Tools Used
-Excel, Power BI, GitHub
+Tools Used
 
-## Why Zomato?
-Because it is a high-growth Indian consumer-tech company with detailed public disclosures, allowing realistic FP&A reconstruction.
+Excel
 
-## Author
+Power BI
+
+GitHub
+
+Why Zomato?
+
+Zomato is a high-growth Indian consumer-tech company with detailed quarterly disclosures, enabling realistic FP&A reconstruction and forecast modeling.
+
+Author
+
 Manmeet Singh
 FP&A / Management Accounting Professional
